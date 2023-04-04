@@ -1,7 +1,7 @@
 # Hospitality Domain Analysis
 This project focuses on creating an interactive dashboard for stakeholders in the hospitality industry to showcase the performance of hotels in terms of key metrics like ADR, Occupancy%, Revenue, Realisation%, RevPAR, etc. over weekdays and weekends. The project also provides valuable insights that can help stakeholders make informed decisions related to dynamic pricing and increase their revenue share in the market.
 
-[Revenue Analysis Dashboard](./revenue_analysis_dashboard.png)
+![Revenue Analysis Dashboard](./revenue_analysis_dashboard.png)
 
 ## Key Metrics
 - RevPAR: Revenue per available room
